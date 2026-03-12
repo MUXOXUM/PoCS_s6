@@ -1,0 +1,27 @@
+2026-03-12T17:37:03+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:37:09+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\ac3f6575-0d6b-436b-9bf7-b3ee4d4e2e20\matrix_100.py
+2026-03-12T17:37:09+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\ac3f6575-0d6b-436b-9bf7-b3ee4d4e2e20\matrix_100.py Ошибка: unsupported operand type(s) for -: 'int' and 'datetime.timedelta'
+2026-03-12T17:37:09+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'int' and 'datetime.timedelta'"]
+2026-03-12T17:37:14+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:39:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:40:04+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\786b4ecd-6360-4811-a0e9-f0cc3133848d\matrix_100.py
+2026-03-12T17:40:04+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\786b4ecd-6360-4811-a0e9-f0cc3133848d\matrix_100.py Ошибка: 'datetime.timedelta' object has no attribute 'strip'
+2026-03-12T17:40:04+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.timedelta' object has no attribute 'strip'"]
+2026-03-12T17:40:09+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:56:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:56:38+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\b8304c92-6976-4615-b217-f53f9772d9a6\matrix_100.py
+2026-03-12T17:56:38+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\b8304c92-6976-4615-b217-f53f9772d9a6\matrix_100.py Ошибка: 'Worksheet Analysis_Q2 does not exist.'
+2026-03-12T17:56:39+0300 Окно выполнения: Процесс 1: ERROR:  ["'Worksheet Analysis_Q2 does not exist.'"]
+2026-03-12T17:56:49+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:57:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T17:57:44+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\a35132da-78ea-418b-a301-4df4482a8c81\matrix_100.py
+2026-03-12T17:58:01+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\a35132da-78ea-418b-a301-4df4482a8c81\matrix_100.py
+2026-03-12T17:58:03+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T18:00:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T18:00:25+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\59eebd73-bdd7-443a-ab0b-b72a7d8345b0\matrix_100.py
+2026-03-12T18:02:17+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\59eebd73-bdd7-443a-ab0b-b72a7d8345b0\matrix_100.py
+2026-03-12T18:02:20+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T18:36:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json
+2026-03-12T18:36:25+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\f12e1665-9077-47e6-ae75-beb232368f31\matrix_100.py
+2026-03-12T18:36:47+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\resource\f12e1665-9077-47e6-ae75-beb232368f31\matrix_100.py
+2026-03-12T18:36:49+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem2\process\Процесс 1.json

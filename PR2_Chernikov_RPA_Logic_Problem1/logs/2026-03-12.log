@@ -1,0 +1,183 @@
+2026-03-12T12:55:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T12:55:29+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\39ae38ce-7b81-4a0e-afa2-ff1d79d7f49f\byte_602.py
+2026-03-12T12:55:29+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\39ae38ce-7b81-4a0e-afa2-ff1d79d7f49f\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T12:55:29+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T12:55:34+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T12:59:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:00:00+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\76356a58-f386-4cae-9018-adbbc14191fb\byte_602.py
+2026-03-12T13:00:00+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\76356a58-f386-4cae-9018-adbbc14191fb\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:00:00+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:00:06+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:06:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:06:06+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\bbce6973-d397-4604-bf91-1b89f482bd03\byte_602.py
+2026-03-12T13:06:07+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\bbce6973-d397-4604-bf91-1b89f482bd03\byte_602.py Ошибка: '<=' not supported between instances of 'datetime.timedelta' and 'str'
+2026-03-12T13:06:07+0300 Окно выполнения: Процесс 1: ERROR:  ["'<=' not supported between instances of 'datetime.timedelta' and 'str'"]
+2026-03-12T13:06:18+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:07:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:07:45+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f4395762-83a1-45cb-84ae-4ff16a0401ff\byte_602.py
+2026-03-12T13:07:46+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f4395762-83a1-45cb-84ae-4ff16a0401ff\byte_602.py Ошибка: '<=' not supported between instances of 'datetime.datetime' and 'str'
+2026-03-12T13:07:46+0300 Окно выполнения: Процесс 1: ERROR:  ["'<=' not supported between instances of 'datetime.datetime' and 'str'"]
+2026-03-12T13:07:51+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:16:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:16:17+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\b957b0a7-1eee-4012-b3ea-3181b4179b5f\byte_602.py
+2026-03-12T13:16:29+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:16:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:16:51+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\0767ebef-f657-4b06-abc1-6be29ca77b78\byte_602.py
+2026-03-12T13:16:57+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\0767ebef-f657-4b06-abc1-6be29ca77b78\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:16:57+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:17:02+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:17:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:17:48+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\a2f5a5d0-d6fe-4263-93be-fbe441894e95\byte_602.py
+2026-03-12T13:17:48+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\a2f5a5d0-d6fe-4263-93be-fbe441894e95\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'strip'
+2026-03-12T13:17:49+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'strip'"]
+2026-03-12T13:17:54+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:17:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:18:01+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\9f55826c-795a-43ff-878b-81ded62b50f0\byte_602.py
+2026-03-12T13:18:01+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\9f55826c-795a-43ff-878b-81ded62b50f0\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'strip'
+2026-03-12T13:18:01+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'strip'"]
+2026-03-12T13:18:28+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:24:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:24:10+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\8d5766fe-881f-4988-9a49-7b4346c24e93\byte_602.py
+2026-03-12T13:24:10+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\8d5766fe-881f-4988-9a49-7b4346c24e93\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'strip'
+2026-03-12T13:24:10+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'strip'"]
+2026-03-12T13:24:17+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:24:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:24:41+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\71b17308-e881-42ea-94d6-2ba49fd8d244\byte_602.py
+2026-03-12T13:24:41+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\71b17308-e881-42ea-94d6-2ba49fd8d244\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:24:41+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:24:46+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:25:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:25:12+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\2c4ade34-4caa-45eb-b94d-9814927c611d\byte_602.py
+2026-03-12T13:25:12+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\2c4ade34-4caa-45eb-b94d-9814927c611d\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:25:13+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:25:19+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:28:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:28:28+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\60de6e8a-9b3c-4627-95bb-45a5e6548ffa\byte_602.py
+2026-03-12T13:28:28+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\60de6e8a-9b3c-4627-95bb-45a5e6548ffa\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:28:28+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:28:31+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:29:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:30:03+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e151ec04-7b5e-4f74-834d-66e69c7074d9\byte_602.py
+2026-03-12T13:30:03+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e151ec04-7b5e-4f74-834d-66e69c7074d9\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:30:04+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:30:23+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:32:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:32:10+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\51866826-29a7-44a7-abf0-e8ba7c36414d\byte_602.py
+2026-03-12T13:32:10+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\51866826-29a7-44a7-abf0-e8ba7c36414d\byte_602.py Ошибка: 'datetime.datetime' object has no attribute 'find'
+2026-03-12T13:32:10+0300 Окно выполнения: Процесс 1: ERROR:  ["'datetime.datetime' object has no attribute 'find'"]
+2026-03-12T13:32:12+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:40:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:40:22+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\bb34dc94-ad7c-41c9-932b-eb647a94d90e\byte_602.py
+2026-03-12T13:40:22+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\bb34dc94-ad7c-41c9-932b-eb647a94d90e\byte_602.py Ошибка: unsupported operand type(s) for -: 'float' and 'NaTType'
+2026-03-12T13:40:23+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'float' and 'NaTType'"]
+2026-03-12T13:40:31+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:40:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:40:53+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\d95e419c-417e-4f80-ac6b-a77fc03c892f\byte_602.py
+2026-03-12T13:40:54+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\d95e419c-417e-4f80-ac6b-a77fc03c892f\byte_602.py Ошибка: '<=' not supported between instances of 'datetime.datetime' and 'Timedelta'
+2026-03-12T13:40:53+0300 Окно выполнения: Процесс 1: ERROR:  ["'<=' not supported between instances of 'datetime.datetime' and 'Timedelta'"]
+2026-03-12T13:41:04+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:44:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:44:49+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\90e1f984-596f-4f16-a162-29bdbf495ba6\byte_602.py
+2026-03-12T13:44:56+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\90e1f984-596f-4f16-a162-29bdbf495ba6\byte_602.py
+2026-03-12T13:44:59+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:46:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:46:51+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\1193dc2e-17f6-40c2-85e9-490c2ba5f97a\byte_602.py
+2026-03-12T13:47:01+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:48:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:48:34+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\0349ee57-d658-4310-b096-e6824acccdca\byte_602.py
+2026-03-12T13:48:52+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:49:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:49:27+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\cbf7217d-8439-4689-92fe-ed6a8b7b3331\byte_602.py
+2026-03-12T13:49:47+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\cbf7217d-8439-4689-92fe-ed6a8b7b3331\byte_602.py
+2026-03-12T13:49:50+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:51:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:51:35+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\c41814ee-409e-4665-9bb3-069d94635eb6\byte_602.py
+2026-03-12T13:51:54+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\c41814ee-409e-4665-9bb3-069d94635eb6\byte_602.py
+2026-03-12T13:51:56+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:52:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T13:52:32+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f5ab9943-c3a9-4787-bf9c-c8565a5cccc7\byte_602.py
+2026-03-12T13:52:49+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f5ab9943-c3a9-4787-bf9c-c8565a5cccc7\byte_602.py
+2026-03-12T13:52:52+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:16:16+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:16:31+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\ee89a283-c58c-48d8-a165-edcc6d21883b\byte_602.py
+2026-03-12T17:16:38+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\ee89a283-c58c-48d8-a165-edcc6d21883b\byte_602.py Ошибка: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2026-03-12T17:16:38+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'datetime.datetime' and 'str'"]
+2026-03-12T17:16:49+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:21:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:21:47+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\c2d597b5-dc90-4457-8306-b1db2e421246\byte_602.py
+2026-03-12T17:21:52+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\c2d597b5-dc90-4457-8306-b1db2e421246\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-12T17:21:52+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-03-12T17:21:55+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:22:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:22:38+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\6515202c-7d42-4717-9d54-49eb3749af0e\byte_602.py
+2026-03-12T17:22:46+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\6515202c-7d42-4717-9d54-49eb3749af0e\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-12T17:22:46+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-03-12T17:22:49+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:23:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:23:15+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\4487a296-b860-41f5-940e-9a319160d712\byte_602.py
+2026-03-12T17:23:20+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\4487a296-b860-41f5-940e-9a319160d712\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-12T17:23:20+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-03-12T17:23:22+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:24:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:24:08+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\232115c5-b370-485e-af9a-8ccd4a9d7edb\byte_602.py
+2026-03-12T17:24:08+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\232115c5-b370-485e-af9a-8ccd4a9d7edb\byte_602.py Ошибка: unsupported operand type(s) for -: 'NoneType' and 'NoneType'
+2026-03-12T17:24:08+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'NoneType' and 'NoneType'"]
+2026-03-12T17:24:12+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:24:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:24:27+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\7913f4f6-2329-491f-85bb-ed80d54bdcec\byte_602.py
+2026-03-12T17:24:27+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\7913f4f6-2329-491f-85bb-ed80d54bdcec\byte_602.py Ошибка: unsupported operand type(s) for -: 'NoneType' and 'NoneType'
+2026-03-12T17:24:27+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'NoneType' and 'NoneType'"]
+2026-03-12T17:24:33+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:24:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:24:53+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\71e848ba-283b-44d6-ac6a-d99fbb08bc57\byte_602.py
+2026-03-12T17:24:59+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\71e848ba-283b-44d6-ac6a-d99fbb08bc57\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-12T17:24:59+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-03-12T17:25:01+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:25:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:25:24+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\23d695bb-725f-4612-9038-ba357274fec9\byte_602.py
+2026-03-12T17:25:28+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\23d695bb-725f-4612-9038-ba357274fec9\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-12T17:25:29+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-03-12T17:25:31+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:25:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:25:57+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\8496c473-ea9f-4d8a-a01a-4fee7535f261\byte_602.py
+2026-03-12T17:26:00+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\8496c473-ea9f-4d8a-a01a-4fee7535f261\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-12T17:26:00+0300 Окно выполнения: Процесс 1: ERROR:  ["unsupported operand type(s) for -: 'str' and 'str'"]
+2026-03-12T17:26:03+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:28:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:28:06+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\d1573949-82d1-4f76-b703-aed39a2c9d59\byte_602.py
+2026-03-12T17:28:13+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\d1573949-82d1-4f76-b703-aed39a2c9d59\byte_602.py
+2026-03-12T17:28:15+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:46:20+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:46:26+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\cef8a83d-805a-47a0-a208-c910cac806db\byte_602.py
+2026-03-12T17:46:34+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:46:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:46:51+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\12200035-7f4d-4bf9-b688-785eb3413a2d\byte_602.py
+2026-03-12T17:47:00+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:47:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:47:52+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f0562b0c-5c1f-49b0-bd8b-65fef5513bdc\byte_602.py
+2026-03-12T17:47:58+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:48:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:48:17+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\b7a123a6-9137-4583-8375-abf78aabfaca\byte_602.py
+2026-03-12T17:48:26+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:50:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:50:27+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\355e3071-0ae1-46b2-a97a-e6bff7ce3e28\byte_602.py
+2026-03-12T17:50:37+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:51:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:51:09+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\bc184ab3-e55c-4b24-9d09-8fe26b45a009\byte_602.py
+2026-03-12T17:51:19+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\bc184ab3-e55c-4b24-9d09-8fe26b45a009\byte_602.py
+2026-03-12T17:51:22+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:52:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:52:17+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\1d3514e8-8f45-4b72-8221-91512dab9389\byte_602.py
+2026-03-12T17:52:26+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\1d3514e8-8f45-4b72-8221-91512dab9389\byte_602.py
+2026-03-12T17:52:29+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:53:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:53:29+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\032901e6-302a-4874-a1b9-0272cf7d0d54\byte_602.py
+2026-03-12T17:53:40+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\032901e6-302a-4874-a1b9-0272cf7d0d54\byte_602.py
+2026-03-12T17:53:42+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:54:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T17:54:42+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\0b1a5f5d-b422-458f-a390-0535ebd9a7c1\byte_602.py
+2026-03-12T17:54:51+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\0b1a5f5d-b422-458f-a390-0535ebd9a7c1\byte_602.py
+2026-03-12T17:54:53+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T18:37:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\process\Процесс 1.json
+2026-03-12T18:37:11+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\4f75fd8a-dfb3-4903-9695-f725ecbca4e3\byte_602.py
+2026-03-12T18:38:31+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\4f75fd8a-dfb3-4903-9695-f725ecbca4e3\byte_602.py

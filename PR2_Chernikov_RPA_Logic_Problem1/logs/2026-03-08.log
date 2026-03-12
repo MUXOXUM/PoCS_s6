@@ -1,0 +1,21 @@
+2026-03-08T00:00:46+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e86630dc-a662-4c90-ab2f-a3d39a2d2f17\byte_602.py
+2026-03-08T00:00:46+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e86630dc-a662-4c90-ab2f-a3d39a2d2f17\byte_602.py Ошибка: unsupported operand type(s) for -: 'str' and 'str'
+2026-03-08T00:03:25+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\2d27e7fa-721e-42bb-85c9-0807326ea3f1\byte_602.py
+2026-03-08T00:03:25+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\2d27e7fa-721e-42bb-85c9-0807326ea3f1\byte_602.py Ошибка: Неподдерживаемый формат даты: 2026-03-08
+2026-03-08T00:04:33+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\041ac817-5187-4eb7-9c9d-184a7bf50de2\byte_602.py
+2026-03-08T00:04:33+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\041ac817-5187-4eb7-9c9d-184a7bf50de2\byte_602.py Ошибка: Неподдерживаемый формат даты: 2026-03-08
+2026-03-08T00:05:10+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\1043ce4d-771a-4c99-a4e9-a77fb622fbc1\byte_602.py
+2026-03-08T00:05:10+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\1043ce4d-771a-4c99-a4e9-a77fb622fbc1\byte_602.py Ошибка: Неподдерживаемый формат даты: 2026-03-08
+2026-03-08T00:09:11+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e257bdc8-d239-4a2e-8e55-e90ef1d6d77a\byte_602.py
+2026-03-08T00:09:11+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e257bdc8-d239-4a2e-8e55-e90ef1d6d77a\byte_602.py Ошибка: 'datetime.timedelta' object has no attribute 'toordinal'
+2026-03-08T00:11:22+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\7ced61f1-1a9d-4289-8dd0-c8f09b7ea426\byte_602.py
+2026-03-08T00:11:22+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\7ced61f1-1a9d-4289-8dd0-c8f09b7ea426\byte_602.py Ошибка: argument of type 'datetime.timedelta' is not iterable
+2026-03-08T00:14:31+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\a01f9aef-baf4-47a0-9206-3bf5adc80885\byte_602.py
+2026-03-08T00:14:32+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\a01f9aef-baf4-47a0-9206-3bf5adc80885\byte_602.py Ошибка: argument of type 'datetime.timedelta' is not iterable
+2026-03-08T00:14:42+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\2348e444-02d9-42f9-9016-7b27e05a994b\byte_602.py
+2026-03-08T00:14:42+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\2348e444-02d9-42f9-9016-7b27e05a994b\byte_602.py Ошибка: name 'timedelta' is not defined
+2026-03-08T00:15:16+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\a8f9ba6c-9cd9-439f-893e-281ce9007c91\byte_602.py
+2026-03-08T00:15:16+0300 ERROR: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\a8f9ba6c-9cd9-439f-893e-281ce9007c91\byte_602.py Ошибка: argument of type 'datetime.timedelta' is not iterable
+2026-03-08T00:16:06+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\e7f8dbc2-472d-4046-94bf-2395ae317a9e\byte_602.py
+2026-03-08T00:17:27+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f1a0b10c-5f38-49ba-8dff-9b2db677a8a4\byte_602.py
+2026-03-08T00:17:31+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR2_Chernikov_RPA_Logic_Problem1\resource\f1a0b10c-5f38-49ba-8dff-9b2db677a8a4\byte_602.py
