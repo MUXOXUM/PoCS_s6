@@ -1,0 +1,10 @@
+Иванов Иван Иванович; ivanov.ii@example.com; 28
+Петрова Мария Сергеевна; petrova.maria@test.org; 34
+Сидоров Алексей Петрович; a.sidorov@demo.net; 41
+Смирнова Елена Андреевна; smirnova.elena@mail.com; 22
+Кузнецов Дмитрий Владимирович; kuznetsov.d@workmail.com; 55
+Попова Анастасия Юрьевна; popova.anastasia@example.org; 19
+Васильев Артём Олегович; v.artem@test.io; 30
+Морозова Ольга Викторовна; morozova.o@demo.ru; 47
+Новиков Павел Сергеевич; novikov.ps@sample.com; 26
+Волкова Татьяна Игоревна; t.volkova@example.net; 38

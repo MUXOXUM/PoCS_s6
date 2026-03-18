@@ -1,0 +1,190 @@
+{
+  "version": 2,
+  "window": {
+    "title": "Форма",
+    "width": 520,
+    "height": 420
+  },
+  "ui": {
+    "padding": {
+      "inline": 16,
+      "block": 16
+    },
+    "backgroundColor": "#ffffff",
+    "textColor": "#222222",
+    "titleColor": "#1976D2",
+    "titleTextColor": "#ffffff"
+  },
+  "fields": [
+    {
+      "id": "submit",
+      "type": "button",
+      "label": "ОК",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#ffffff"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "submit",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        },
+        "resultKey": "submit_result"
+      }
+    },
+    {
+      "id": "field_2",
+      "type": "button",
+      "label": "Отмена",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "close",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        }
+      }
+    },
+    {
+      "id": "contestant_name",
+      "type": "text",
+      "label": "ФИО участника",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 1,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contest_email",
+      "type": "text",
+      "label": "Email для связи",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 2,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contestant_age",
+      "type": "number",
+      "label": "Возраст участника",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 3,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "min": 12,
+      "max": 65,
+      "step": ""
+    }
+  ]
+}

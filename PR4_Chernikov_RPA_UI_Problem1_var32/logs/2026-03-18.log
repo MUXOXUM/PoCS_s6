@@ -1,0 +1,4 @@
+2026-03-18T21:40:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-18T21:40:45+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\f2d4813d-c0a6-4b83-9220-85e5e199ab27\quantum_372.py
+2026-03-18T21:41:50+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\f2d4813d-c0a6-4b83-9220-85e5e199ab27\quantum_372.py
+2026-03-18T21:41:50+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json

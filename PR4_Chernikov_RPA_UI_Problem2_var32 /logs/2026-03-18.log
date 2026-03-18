@@ -1,0 +1,12 @@
+2026-03-18T21:52:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-18T21:52:36+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\b1edf3b5-4ea1-4f0d-8bd5-1ae5b710acdb\spark_669.py
+2026-03-18T21:53:33+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\b1edf3b5-4ea1-4f0d-8bd5-1ae5b710acdb\spark_669.py
+2026-03-18T21:53:34+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-18T21:54:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-18T21:54:05+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\e20e44c5-61f9-4050-82f0-7eb8ecab1df6\spark_669.py
+2026-03-18T21:54:31+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\e20e44c5-61f9-4050-82f0-7eb8ecab1df6\spark_669.py
+2026-03-18T21:54:31+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-18T21:54:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-18T21:54:40+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\68f9682e-617a-41a1-a5fb-401560442bec\spark_669.py
+2026-03-18T21:55:34+0300 Cannot read properties of undefined (reading 'match')
+2026-03-18T21:55:34+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json

@@ -1,0 +1,341 @@
+{
+  "version": 2,
+  "window": {
+    "title": "Конкурс Talent🏆",
+    "width": 520,
+    "height": 420
+  },
+  "ui": {
+    "padding": {
+      "inline": 16,
+      "block": 16
+    },
+    "backgroundColor": "#00b7ff40",
+    "textColor": "#222222",
+    "titleColor": "#1976D2",
+    "titleTextColor": "#ffffff"
+  },
+  "fields": [
+    {
+      "id": "submit",
+      "type": "button",
+      "label": "ОК",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 10,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#ffffff"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "submit",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        },
+        "resultKey": "submit_result"
+      }
+    },
+    {
+      "id": "field_2",
+      "type": "button",
+      "label": "Отмена",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 10,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "close",
+        "onClick": {
+          "name": "",
+          "safeName": ""
+        }
+      }
+    },
+    {
+      "id": "contestant_name",
+      "type": "text",
+      "label": "ФИО участника",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 1,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contest_email",
+      "type": "text",
+      "label": "Email для связи",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 2,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contestant_age",
+      "type": "number",
+      "label": "Возраст участника",
+      "disabled": false,
+      "tooltipText": "",
+      "default": 0,
+      "ui": {
+        "row": 3,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "min": "",
+      "max": "",
+      "step": ""
+    },
+    {
+      "id": "has_portfolio",
+      "type": "checkbox",
+      "label": "Есть ли портфолио",
+      "disabled": false,
+      "tooltipText": "",
+      "default": false,
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      }
+    },
+    {
+      "id": "portfolio_link",
+      "type": "text",
+      "label": "Ссылка на портфолио",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 4,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [
+          {
+            "type": "condition",
+            "id": "1773753222415_0.2868151192633388",
+            "nextOperator": "and"
+          }
+        ],
+        "conditions": {
+          "1773753222415_0.2868151192633388": {
+            "id": "1773753222415_0.2868151192633388",
+            "groupId": "__ungrouped",
+            "node": {
+              "type": "leaf",
+              "field": "has_portfolio",
+              "operator": "checked",
+              "value": ""
+            }
+          }
+        }
+      },
+      "pattern": ""
+    },
+    {
+      "id": "contest_nomination",
+      "type": "select",
+      "label": "Номинация курса",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "art",
+      "ui": {
+        "row": 5,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#000000",
+        "textColor": "#000000",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "options": [
+        "art",
+        "tech",
+        "literature"
+      ]
+    },
+    {
+      "id": "trigger",
+      "type": "button",
+      "label": "Проверить данные",
+      "disabled": false,
+      "tooltipText": "",
+      "default": "",
+      "ui": {
+        "row": 6,
+        "order": 1,
+        "width": "auto",
+        "height": "auto",
+        "margin": {
+          "bottom": 0,
+          "top": 0,
+          "right": 0,
+          "left": 0
+        },
+        "labelPosition": "right",
+        "backgroundColor": "#1976d2",
+        "borderColor": "#1976d2",
+        "textColor": "#ffffff",
+        "labelColor": "#000000"
+      },
+      "hideIf": {
+        "groups": {},
+        "topLevel": [],
+        "conditions": {}
+      },
+      "buttonProps": {
+        "type": "function",
+        "onClick": {
+          "name": "check_user_data",
+          "safeName": "check_user_data"
+        },
+        "resultKey": "submit_result"
+      }
+    }
+  ]
+}

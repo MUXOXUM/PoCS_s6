@@ -1,0 +1,98 @@
+2026-03-17T16:41:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:41:27+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\cba36b79-2a78-4aaa-9d1f-25d3af9d85e1\spark_669.py
+2026-03-17T16:42:10+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:42:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:42:15+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\e07b7d88-5ffb-479f-b0de-08ab3b2e8c82\spark_669.py
+2026-03-17T16:43:44+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:43:44+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:43:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:43:49+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\da74364d-63bb-4258-934d-3fa62448c4a2\spark_669.py
+2026-03-17T16:44:34+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:44:34+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:44:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:44:53+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\eee53ec4-2a7f-4548-88a2-e359e1ae64d4\spark_669.py
+2026-03-17T16:45:22+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:45:22+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:45:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:45:33+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\d7a12a56-8a43-4049-ac28-8f220e2e1514\spark_669.py
+2026-03-17T16:45:50+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:45:55+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:45:57+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\cd72be71-92ca-4f0d-9e65-ec0150bf3a63\spark_669.py
+2026-03-17T16:46:12+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:46:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:46:44+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\0d2cfc49-abd2-4a64-8ca1-4055d21b4f68\spark_669.py
+2026-03-17T16:46:57+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:46:57+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:48:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:48:58+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\9b56c4fd-bd49-414c-bb09-b784b3ba9e93\spark_669.py
+2026-03-17T16:49:14+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:49:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:49:31+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\1ad18e69-d04e-4f67-8ad0-0d12107020b0\spark_669.py
+2026-03-17T16:49:43+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:49:43+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:50:25+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:50:26+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\b6dbcf55-1311-4b2f-aa81-af84790b2ec1\spark_669.py
+2026-03-17T16:50:26+0300 ERROR: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\b6dbcf55-1311-4b2f-aa81-af84790b2ec1\spark_669.py Ошибка: name 'email' is not defined
+2026-03-17T16:50:26+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'email' is not defined"]
+2026-03-17T16:50:26+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","Traceback (most recent call last):\r\n  File \"C:\\Users\\vboxuser\\Desktop\\PR4_Chernikov_RPA_UI_Problem2_var32 \\resource\\b6dbcf55-1311-4b2f-aa81-af84790b2ec1\\spark_669.py\", line 66, in main_spark_669_proc\r\n    len(email)\r\n        ^^^^^\r\nNameError: name 'email' is not defined. Did you mean: 'eval'?\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\vboxuser\\Desktop\\PR4_Chernikov_RPA_UI_Problem2_var32 \\resource\\b6dbcf55-1311-4b2f-aa81-af84790b2ec1\\spark_669.py\", line 128, in <module>\r\n    main_spark_669_proc()\r\n  File \"C:\\Users\\vboxuser\\Desktop\\PR4_Chernikov_RPA_UI_Problem2_var32 \\resource\\b6dbcf55-1311-4b2f-aa81-af84790b2ec1\\spark_669.py\", line 127, in main_spark_669_proc\r\n    raise Exception(error_puzzle)\r\nException: name 'email' is not defined\r\n"]
+2026-03-17T16:50:28+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:50:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:50:34+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\f94b1617-b931-4bc3-ad59-c5ea2f45b1eb\spark_669.py
+2026-03-17T16:50:34+0300 ERROR: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\f94b1617-b931-4bc3-ad59-c5ea2f45b1eb\spark_669.py Ошибка: name 'email' is not defined
+2026-03-17T16:50:34+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'email' is not defined"]
+2026-03-17T16:50:34+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","Traceback (most recent call last):\r\n  File \"C:\\Users\\vboxuser\\Desktop\\PR4_Chernikov_RPA_UI_Problem2_var32 \\resource\\f94b1617-b931-4bc3-ad59-c5ea2f45b1eb\\spark_669.py\", line 66, in main_spark_669_proc\r\n    len(email)\r\n        ^^^^^\r\nNameError: name 'email' is not defined. Did you mean: 'eval'?\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\vboxuser\\Desktop\\PR4_Chernikov_RPA_UI_Problem2_var32 \\resource\\f94b1617-b931-4bc3-ad59-c5ea2f45b1eb\\spark_669.py\", line 128, in <module>\r\n    main_spark_669_proc()\r\n  File \"C:\\Users\\vboxuser\\Desktop\\PR4_Chernikov_RPA_UI_Problem2_var32 \\resource\\f94b1617-b931-4bc3-ad59-c5ea2f45b1eb\\spark_669.py\", line 127, in main_spark_669_proc\r\n    raise Exception(error_puzzle)\r\nException: name 'email' is not defined\r\n"]
+2026-03-17T16:50:42+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:51:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:51:15+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\d77a84e1-69d1-498b-8905-c095e81a5351\spark_669.py
+2026-03-17T16:51:28+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:51:35+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:51:36+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\55d80093-82c4-4e94-b6cc-391f9e0a974e\spark_669.py
+2026-03-17T16:52:17+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:52:17+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:52:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:52:43+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\864b7e1f-09c6-498b-b283-758458944a47\spark_669.py
+2026-03-17T16:53:00+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:53:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:53:16+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\4041abdc-637f-4385-beaf-a5187fc6abcc\spark_669.py
+2026-03-17T16:53:36+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T16:53:36+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:59:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T16:59:35+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\b7b64c53-718d-48a5-9db4-1be741c3ff91\spark_669.py
+2026-03-17T17:00:13+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\b7b64c53-718d-48a5-9db4-1be741c3ff91\spark_669.py
+2026-03-17T17:00:14+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:01:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:01:35+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\d1f5373e-8386-4cdd-8483-2e4474428cf5\spark_669.py
+2026-03-17T17:02:01+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T17:02:01+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:02:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:02:35+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\d4d1ad29-a9cc-49ce-a5ea-47a10ec514ac\spark_669.py
+2026-03-17T17:02:57+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\d4d1ad29-a9cc-49ce-a5ea-47a10ec514ac\spark_669.py
+2026-03-17T17:02:58+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:03:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:03:30+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\f74c3746-2fb5-42de-a0bb-54b33f00cc15\spark_669.py
+2026-03-17T17:03:40+0300 ERROR: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\f74c3746-2fb5-42de-a0bb-54b33f00cc15\spark_669.py Ошибка: 'portfolio_link'
+2026-03-17T17:03:40+0300 Окно выполнения: Процесс 1: ERROR:  ["'portfolio_link'"]
+2026-03-17T17:03:47+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:28:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T17:28:37+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\607cb3a7-135d-4f13-bddc-db8de4177f95\spark_669.py
+2026-03-17T17:28:55+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\607cb3a7-135d-4f13-bddc-db8de4177f95\spark_669.py
+2026-03-17T17:28:55+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T21:59:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T21:59:09+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\986337dd-eb9b-4bcf-a3cf-51bbb8236b9a\spark_669.py
+2026-03-17T21:59:34+0300 Cannot read properties of undefined (reading 'match')
+2026-03-17T21:59:34+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:06:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:06:41+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\e2b58853-a6c3-4951-8857-3848861b76aa\spark_669.py
+2026-03-17T22:07:08+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\e2b58853-a6c3-4951-8857-3848861b76aa\spark_669.py
+2026-03-17T22:07:09+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:08:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:08:59+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\4718d1b2-44d3-4c9a-a3ba-0c0942459726\spark_669.py
+2026-03-17T22:09:33+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\4718d1b2-44d3-4c9a-a3ba-0c0942459726\spark_669.py
+2026-03-17T22:09:34+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:12:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:12:32+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\8f69adf9-8e8b-4477-8493-c58775170325\spark_669.py
+2026-03-17T22:12:34+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:12:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json
+2026-03-17T22:12:41+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\bacdd1c8-4d12-4335-8986-ffc17257c952\spark_669.py
+2026-03-17T22:13:03+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \resource\bacdd1c8-4d12-4335-8986-ffc17257c952\spark_669.py
+2026-03-17T22:13:04+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem2_var32 \process\Процесс 1.json

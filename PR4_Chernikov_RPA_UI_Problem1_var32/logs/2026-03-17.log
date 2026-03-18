@@ -1,0 +1,21 @@
+2026-03-17T15:41:58+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:42:11+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\c84e63db-8f0d-4a48-9ea5-5b265bb5ed03\quantum_372.py
+2026-03-17T15:42:11+0300 ERROR: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\c84e63db-8f0d-4a48-9ea5-5b265bb5ed03\quantum_372.py Ошибка: cannot access local variable 'application_count' where it is not associated with a value
+2026-03-17T15:42:12+0300 Окно выполнения: Процесс 1: ERROR:  ["cannot access local variable 'application_count' where it is not associated with a value"]
+2026-03-17T15:42:16+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:44:57+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:44:58+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\2eb5cd05-e03a-48b6-a424-65bf39bc6049\quantum_372.py
+2026-03-17T15:44:58+0300 ERROR: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\2eb5cd05-e03a-48b6-a424-65bf39bc6049\quantum_372.py Ошибка: cannot access local variable 'application_count' where it is not associated with a value
+2026-03-17T15:44:58+0300 Окно выполнения: Процесс 1: ERROR:  ["cannot access local variable 'application_count' where it is not associated with a value"]
+2026-03-17T15:45:13+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:45:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:45:36+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\0ee50765-5d34-43ec-9d05-b577f301598c\quantum_372.py
+2026-03-17T15:45:45+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:56:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:56:46+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\d71b8fbb-1456-4f84-abbc-3ca8ab17af54\quantum_372.py
+2026-03-17T15:57:09+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\d71b8fbb-1456-4f84-abbc-3ca8ab17af54\quantum_372.py
+2026-03-17T15:57:09+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:59:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
+2026-03-17T15:59:13+0300 INFO: Старт робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\c2b9cf7e-f619-4826-85b8-d2c5da7d5bab\quantum_372.py
+2026-03-17T15:59:37+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \resource\c2b9cf7e-f619-4826-85b8-d2c5da7d5bab\quantum_372.py
+2026-03-17T15:59:37+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Desktop\PR4_Chernikov_RPA_UI_Problem1_var32 \process\Процесс 1.json
