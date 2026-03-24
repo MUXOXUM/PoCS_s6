@@ -1,0 +1,10 @@
+2026-03-24T15:09:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\process\Процесс 1.json
+2026-03-24T15:09:07+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\resource\2d935c4a-ea67-4228-ac3e-3909c458d5ca\circuit_758.py
+2026-03-24T15:09:08+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\resource\2d935c4a-ea67-4228-ac3e-3909c458d5ca\bot_733.py
+2026-03-24T15:09:42+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\resource\2d935c4a-ea67-4228-ac3e-3909c458d5ca\bot_733.py
+2026-03-24T15:09:42+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\process\Процесс 1.json
+2026-03-24T15:14:15+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\process\Процесс 1.json
+2026-03-24T15:14:17+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\resource\2cfa271f-be65-4e5c-8283-1db4078d1fb5\circuit_758.py
+2026-03-24T15:14:17+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\resource\2cfa271f-be65-4e5c-8283-1db4078d1fb5\bot_733.py
+2026-03-24T15:14:32+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\resource\2cfa271f-be65-4e5c-8283-1db4078d1fb5\bot_733.py
+2026-03-24T15:14:32+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem2_var32\process\Процесс 1.json

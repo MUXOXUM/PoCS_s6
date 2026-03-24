@@ -1,0 +1,38 @@
+[
+  {
+    "incident_id": "INC-2024-001",
+    "impact_level": 3,
+    "urgency_level": 2,
+    "affected_users": 50
+  },
+  {
+    "incident_id": "INC-2024-002",
+    "impact_level": 5,
+    "urgency_level": 4,
+    "affected_users": 250
+  },
+  {
+    "incident_id": "INC-2024-003",
+    "impact_level": 2,
+    "urgency_level": 1,
+    "affected_users": 12
+  },
+  {
+    "incident_id": "INC-2024-004",
+    "impact_level": 4,
+    "urgency_level": 5,
+    "affected_users": 500
+  },
+  {
+    "incident_id": "INC-2024-005",
+    "impact_level": 1,
+    "urgency_level": 3,
+    "affected_users": 5
+  },
+  {
+    "incident_id": "INC-2024-006",
+    "impact_level": 3,
+    "urgency_level": 3,
+    "affected_users": 120
+  }
+]

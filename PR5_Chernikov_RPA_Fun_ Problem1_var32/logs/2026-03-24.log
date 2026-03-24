@@ -1,0 +1,37 @@
+2026-03-24T14:10:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:10:42+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\c795c411-945f-4fa6-81c7-2933b9772862\miraash_665.py
+2026-03-24T14:10:42+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\c795c411-945f-4fa6-81c7-2933b9772862\miraash_665.py
+2026-03-24T14:10:42+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:11:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:11:02+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\3b97549f-6324-44eb-8a0c-30842872cc04\miraash_665.py
+2026-03-24T14:11:12+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\3b97549f-6324-44eb-8a0c-30842872cc04\miraash_665.py
+2026-03-24T14:11:12+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:20:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:20:25+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\fa4e99c9-2678-450f-9de1-27584f9471cc\miraash_665.py
+2026-03-24T14:20:33+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:24:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:24:26+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\5d91ad9f-c30f-4efa-97a5-f981fdb9d366\miraash_665.py
+2026-03-24T14:24:26+0300 ERROR: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\5d91ad9f-c30f-4efa-97a5-f981fdb9d366\miraash_665.py Ошибка: name 'incident_dict' is not defined
+2026-03-24T14:24:26+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'incident_dict' is not defined"]
+2026-03-24T14:24:30+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:24:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:24:42+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\373c8d3d-5be8-4065-a1f4-462c9346ff92\miraash_665.py
+2026-03-24T14:24:53+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\373c8d3d-5be8-4065-a1f4-462c9346ff92\miraash_665.py
+2026-03-24T14:24:54+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:27:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:27:13+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\9dfa9771-24c0-4ebd-a9e7-cffc17844eb1\miraash_665.py
+2026-03-24T14:27:22+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\9dfa9771-24c0-4ebd-a9e7-cffc17844eb1\miraash_665.py
+2026-03-24T14:27:22+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:28:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:28:44+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\f0c571b4-867a-4822-9c5f-b69f8220c630\miraash_665.py
+2026-03-24T14:28:49+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\f0c571b4-867a-4822-9c5f-b69f8220c630\miraash_665.py
+2026-03-24T14:28:49+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:30:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T14:30:09+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\d00f435b-0b24-4801-94b3-85b37a5fe803\miraash_665.py
+2026-03-24T14:31:11+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\d00f435b-0b24-4801-94b3-85b37a5fe803\miraash_665.py
+2026-03-24T14:31:11+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T15:12:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
+2026-03-24T15:12:05+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\be187234-4ec9-4211-b18e-60b0d771d2af\vector_69.py
+2026-03-24T15:12:06+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\be187234-4ec9-4211-b18e-60b0d771d2af\miraash_665.py
+2026-03-24T15:12:18+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\resource\be187234-4ec9-4211-b18e-60b0d771d2af\miraash_665.py
+2026-03-24T15:12:19+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR5_Chernikov_RPA_Fun_ Problem1_var32\process\Процесс 1.json
