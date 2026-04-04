@@ -1,0 +1,48 @@
+2026-04-04T01:11:06+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\c2276756-dc82-4097-a49e-918cda8a654e\vector_964.py
+2026-04-04T01:11:08+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\c2276756-dc82-4097-a49e-918cda8a654e\vector_964.py Ошибка: unsupported operand type(s) for -: 'str' and 'int'
+2026-04-04T01:12:22+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\f5227d9f-0bf3-4d21-9074-e6e1a5a31653\vector_964.py
+2026-04-04T01:12:23+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\f5227d9f-0bf3-4d21-9074-e6e1a5a31653\vector_964.py Ошибка: unsupported operand type(s) for -: 'str' and 'int'
+2026-04-04T01:13:20+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4bd132b4-417b-4088-ae69-15cbf1e0f56f\vector_964.py
+2026-04-04T01:13:30+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4bd132b4-417b-4088-ae69-15cbf1e0f56f\vector_964.py Ошибка: 'priority'
+2026-04-04T01:14:39+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\17a5e340-68ce-4720-9a69-ef2dd959d9c7\vector_964.py
+2026-04-04T01:14:40+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\17a5e340-68ce-4720-9a69-ef2dd959d9c7\vector_964.py Ошибка: 'priority'
+2026-04-04T01:15:37+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\e9d60503-093e-478c-a9fb-63427bb279ef\vector_964.py
+2026-04-04T01:15:53+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\e9d60503-093e-478c-a9fb-63427bb279ef\vector_964.py Ошибка: 'priority'
+2026-04-04T01:17:07+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b3f53f49-bf9a-4c81-a913-edfe602fa528\vector_964.py
+2026-04-04T01:17:08+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b3f53f49-bf9a-4c81-a913-edfe602fa528\vector_964.py Ошибка: 'priority'
+2026-04-04T01:17:46+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\1cf7d116-6732-4216-823d-b434071d4972\vector_964.py
+2026-04-04T01:17:46+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\1cf7d116-6732-4216-823d-b434071d4972\vector_964.py Ошибка: 0
+2026-04-04T01:18:16+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4af31850-147f-452a-bf75-78af04282456\vector_964.py
+2026-04-04T01:18:17+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4af31850-147f-452a-bf75-78af04282456\vector_964.py Ошибка: 0
+2026-04-04T01:18:45+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b2906d9a-e279-4582-a77e-b6d636858d59\vector_964.py
+2026-04-04T01:18:46+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b2906d9a-e279-4582-a77e-b6d636858d59\vector_964.py Ошибка: 'priority'
+2026-04-04T01:19:02+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\bcd371bd-9bd6-486b-9380-7d94b2454b5a\vector_964.py
+2026-04-04T01:19:03+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\bcd371bd-9bd6-486b-9380-7d94b2454b5a\vector_964.py Ошибка: 'priority'
+2026-04-04T01:26:03+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\fac47f59-34c0-4e63-bd32-a722efaa2abe\vector_964.py
+2026-04-04T01:26:04+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\fac47f59-34c0-4e63-bd32-a722efaa2abe\vector_964.py Ошибка: '"priority"'
+2026-04-04T01:26:24+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\1c6b338c-3207-4c9b-8546-66c33c0d6a32\vector_964.py
+2026-04-04T01:26:25+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\1c6b338c-3207-4c9b-8546-66c33c0d6a32\vector_964.py Ошибка: '"priority"'
+2026-04-04T01:26:36+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\bb607491-2f66-4521-b14c-b0bc088f3ddf\vector_964.py
+2026-04-04T01:26:37+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\bb607491-2f66-4521-b14c-b0bc088f3ddf\vector_964.py Ошибка: 'priority'
+2026-04-04T01:28:06+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\e5e8e57e-9814-4f80-9a44-e795de3d9f51\vector_964.py
+2026-04-04T01:28:07+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\e5e8e57e-9814-4f80-9a44-e795de3d9f51\vector_964.py Ошибка: 'priority'
+2026-04-04T01:28:15+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\09cada04-b56a-4896-82e9-1d14ffacf24a\vector_964.py
+2026-04-04T01:28:16+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\09cada04-b56a-4896-82e9-1d14ffacf24a\vector_964.py Ошибка: 'priority'
+2026-04-04T01:28:34+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\a7cde3ea-600a-4f1c-a1ba-bfbe36880095\vector_964.py
+2026-04-04T01:28:34+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\a7cde3ea-600a-4f1c-a1ba-bfbe36880095\vector_964.py Ошибка: 'priority'
+2026-04-04T01:28:46+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4355e2f2-051d-480a-84b7-24d4f53082db\vector_964.py
+2026-04-04T01:28:47+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4355e2f2-051d-480a-84b7-24d4f53082db\vector_964.py Ошибка: 'priority'
+2026-04-04T01:29:22+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\7e341288-d5f9-4efd-b03d-6b95745c8611\vector_964.py
+2026-04-04T01:29:23+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\7e341288-d5f9-4efd-b03d-6b95745c8611\vector_964.py Ошибка: 'priority'
+2026-04-04T01:29:35+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b9da4ec1-e6d8-4ab4-b5cc-cdb2254e1925\vector_964.py
+2026-04-04T01:29:36+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b9da4ec1-e6d8-4ab4-b5cc-cdb2254e1925\vector_964.py Ошибка: 'request_id'
+2026-04-04T01:32:24+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b53c200b-ac47-48eb-b1b2-7b3cd83adad7\vector_964.py
+2026-04-04T01:32:25+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4d6d4fcc-0ddb-4454-8c2f-c64a3cd77d12\vector_964.py
+2026-04-04T01:32:28+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\4d6d4fcc-0ddb-4454-8c2f-c64a3cd77d12\vector_964.py
+2026-04-04T01:32:30+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\b53c200b-ac47-48eb-b1b2-7b3cd83adad7\vector_964.py
+2026-04-04T01:44:43+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\5f215532-37ab-4162-bdc3-4cedeb889510\vector_964.py
+2026-04-04T01:44:57+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\5f215532-37ab-4162-bdc3-4cedeb889510\vector_964.py
+2026-04-04T01:45:17+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\577237e9-7087-4db8-83a1-f812e5486800\vector_964.py
+2026-04-04T01:45:39+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\577237e9-7087-4db8-83a1-f812e5486800\vector_964.py
+2026-04-04T01:49:13+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\533eaf64-46a6-48a7-833f-30fd9afbe506\vector_964.py
+2026-04-04T01:49:40+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem1_var32\resource\533eaf64-46a6-48a7-833f-30fd9afbe506\vector_964.py

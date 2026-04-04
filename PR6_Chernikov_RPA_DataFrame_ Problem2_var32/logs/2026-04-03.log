@@ -1,0 +1,9 @@
+2026-04-04T02:03:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:03:53+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:12:51+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:13:05+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:17:09+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:17:16+0300 Окно выполнения: Процесс 1: ERROR:  ["name 'new_request_df' is not defined"]
+2026-04-04T02:17:20+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:17:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json
+2026-04-04T02:17:50+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\process\Процесс 1.json

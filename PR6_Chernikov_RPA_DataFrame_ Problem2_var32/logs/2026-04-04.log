@@ -1,0 +1,8 @@
+2026-04-04T02:03:35+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\add6d458-4cd6-4b45-968b-ce5b41fa95d6\auto_362.py
+2026-04-04T02:03:50+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\add6d458-4cd6-4b45-968b-ce5b41fa95d6\auto_362.py
+2026-04-04T02:12:56+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\bf2a8258-3077-41d2-bf80-6cdef0b68642\auto_362.py
+2026-04-04T02:13:03+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\bf2a8258-3077-41d2-bf80-6cdef0b68642\auto_362.py
+2026-04-04T02:17:15+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\77f3b1e3-7a0f-466d-85d3-4a723281f572\auto_362.py
+2026-04-04T02:17:15+0300 ERROR: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\77f3b1e3-7a0f-466d-85d3-4a723281f572\auto_362.py Ошибка: name 'new_request_df' is not defined
+2026-04-04T02:17:37+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\928b5e8c-53fe-433f-b25b-27196bc8ab47\auto_362.py
+2026-04-04T02:17:48+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR6_Chernikov_RPA_DataFrame_ Problem2_var32\resource\928b5e8c-53fe-433f-b25b-27196bc8ab47\auto_362.py
