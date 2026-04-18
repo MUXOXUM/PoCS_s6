@@ -1,0 +1,108 @@
+2026-04-16T16:57:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T16:57:50+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\cd4a2181-1ff5-4655-b5f6-23a6328a04b6\functions.py
+2026-04-16T16:57:51+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\cd4a2181-1ff5-4655-b5f6-23a6328a04b6\main.py
+2026-04-16T16:58:09+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T16:59:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T16:59:10+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\443e108c-cbb2-40d6-9e44-dc745014dd44\functions.py
+2026-04-16T16:59:10+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\443e108c-cbb2-40d6-9e44-dc745014dd44\main.py
+2026-04-16T16:59:26+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T16:59:48+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T16:59:51+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\24021fe5-d780-4504-b3b8-422227c8180f\functions.py
+2026-04-16T16:59:52+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\24021fe5-d780-4504-b3b8-422227c8180f\main.py
+2026-04-16T17:00:01+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\24021fe5-d780-4504-b3b8-422227c8180f\main.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-16T17:00:04+0300 Окно выполнения: main: ERROR:  ["[WinError 2] Не удается найти указанный файл"]
+2026-04-16T17:00:07+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:03:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\functions.json
+2026-04-16T17:03:07+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\954fc363-84c6-498b-bb12-88f5f501b87e\functions.py
+2026-04-16T17:03:07+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\954fc363-84c6-498b-bb12-88f5f501b87e\functions.py
+2026-04-16T17:03:08+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\functions.json
+2026-04-16T17:03:19+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:03:23+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\929b7c7c-cc6e-47d3-a4ff-f8d25eb03802\functions.py
+2026-04-16T17:03:23+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\929b7c7c-cc6e-47d3-a4ff-f8d25eb03802\main.py
+2026-04-16T17:03:24+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\929b7c7c-cc6e-47d3-a4ff-f8d25eb03802\main.py Ошибка: 'В'
+2026-04-16T17:03:24+0300 Окно выполнения: main: ERROR:  ["'В'"]
+2026-04-16T17:03:28+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:03:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:03:47+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\5bd31e71-a9e4-4cdf-9619-b55c6b7f5e4c\functions.py
+2026-04-16T17:03:47+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\5bd31e71-a9e4-4cdf-9619-b55c6b7f5e4c\main.py
+2026-04-16T17:03:48+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\5bd31e71-a9e4-4cdf-9619-b55c6b7f5e4c\main.py Ошибка: 'B'
+2026-04-16T17:03:48+0300 Окно выполнения: main: ERROR:  ["'B'"]
+2026-04-16T17:03:50+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:03:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\functions.json
+2026-04-16T17:04:04+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\333d9746-65c1-4b8a-b1a4-004bc381d002\functions.py
+2026-04-16T17:04:04+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\333d9746-65c1-4b8a-b1a4-004bc381d002\functions.py
+2026-04-16T17:04:04+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\functions.json
+2026-04-16T17:04:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:04:21+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\bce8f6a9-e361-4f2a-8c4f-0f5d42b5e7b5\functions.py
+2026-04-16T17:04:21+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\bce8f6a9-e361-4f2a-8c4f-0f5d42b5e7b5\main.py
+2026-04-16T17:04:27+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\bce8f6a9-e361-4f2a-8c4f-0f5d42b5e7b5\main.py Ошибка: 'C'
+2026-04-16T17:04:27+0300 Окно выполнения: main: ERROR:  ["'C'"]
+2026-04-16T17:04:29+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:05:28+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:05:31+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\ccd7b2ee-5c81-4d56-ac21-750214f24131\functions.py
+2026-04-16T17:05:31+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\ccd7b2ee-5c81-4d56-ac21-750214f24131\main.py
+2026-04-16T17:05:52+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:06:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:06:33+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\e0dfc094-c9e8-413d-8be9-a3b56df02259\functions.py
+2026-04-16T17:06:33+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\e0dfc094-c9e8-413d-8be9-a3b56df02259\main.py
+2026-04-16T17:06:58+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\e0dfc094-c9e8-413d-8be9-a3b56df02259\main.py Ошибка: 5
+2026-04-16T17:06:58+0300 Окно выполнения: main: ERROR:  ["5"]
+2026-04-16T17:07:04+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:07:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:07:46+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\6801ee0a-1362-4220-8183-ce9058c03258\functions.py
+2026-04-16T17:07:46+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\6801ee0a-1362-4220-8183-ce9058c03258\main.py
+2026-04-16T17:08:00+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\6801ee0a-1362-4220-8183-ce9058c03258\main.py Ошибка: [WinError 2] Не удается найти указанный файл
+2026-04-16T17:08:00+0300 Окно выполнения: main: ERROR:  ["[WinError 2] Не удается найти указанный файл"]
+2026-04-16T17:08:03+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:42:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:42:24+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\13dcacc8-5119-421f-811e-eb59be9b8270\functions.py
+2026-04-16T17:42:24+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\13dcacc8-5119-421f-811e-eb59be9b8270\main.py
+2026-04-16T17:42:42+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\13dcacc8-5119-421f-811e-eb59be9b8270\main.py Ошибка: Find Control Timeout(10s): {Name: 'Bug', ClassName: 'WindowsForms10.ComboBox.app.0.21b46d2_r3_ad1', ControlType: ComboBoxControl}
+2026-04-16T17:42:42+0300 Окно выполнения: main: ERROR:  ["Find Control Timeout(10s): {Name: 'Bug', ClassName: 'WindowsForms10.ComboBox.app.0.21b46d2_r3_ad1', ControlType: ComboBoxControl}"]
+2026-04-16T17:42:46+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:45:54+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:46:00+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\c9dbf43f-12eb-4ff6-962d-6d2a120f979a\functions.py
+2026-04-16T17:46:00+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\c9dbf43f-12eb-4ff6-962d-6d2a120f979a\main.py
+2026-04-16T17:46:13+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\c9dbf43f-12eb-4ff6-962d-6d2a120f979a\main.py Ошибка: Find Control Timeout(10s): {Name: 'Bug', ClassName: 'Bug', ControlType: ComboBoxControl}
+2026-04-16T17:46:15+0300 Окно выполнения: main: ERROR:  ["Find Control Timeout(10s): {Name: 'Bug', ClassName: 'Bug', ControlType: ComboBoxControl}"]
+2026-04-16T17:46:25+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:48:17+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:48:20+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\947887c2-1ec0-4f68-88aa-33a3cc51120c\functions.py
+2026-04-16T17:48:20+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\947887c2-1ec0-4f68-88aa-33a3cc51120c\main.py
+2026-04-16T17:48:36+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\947887c2-1ec0-4f68-88aa-33a3cc51120c\main.py Ошибка: Find Control Timeout(10s): {Name: 'Bug', ClassName: 'Bug', ControlType: ComboBoxControl}
+2026-04-16T17:48:36+0300 Окно выполнения: main: ERROR:  ["Find Control Timeout(10s): {Name: 'Bug', ClassName: 'Bug', ControlType: ComboBoxControl}"]
+2026-04-16T17:48:38+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:52:00+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:52:04+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\f4bca728-dc92-4b13-9073-f201ea9b272f\functions.py
+2026-04-16T17:52:04+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\f4bca728-dc92-4b13-9073-f201ea9b272f\main.py
+2026-04-16T17:52:15+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:53:13+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T17:53:17+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\a97df024-b7ec-4c06-9877-1897b5d72dd3\functions.py
+2026-04-16T17:53:17+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\a97df024-b7ec-4c06-9877-1897b5d72dd3\main.py
+2026-04-16T17:53:59+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\a97df024-b7ec-4c06-9877-1897b5d72dd3\main.py
+2026-04-16T17:53:59+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:03:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:03:51+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\73da2b92-3588-42d7-9a10-d3b2f7385ec7\functions.py
+2026-04-16T18:03:51+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\73da2b92-3588-42d7-9a10-d3b2f7385ec7\main.py
+2026-04-16T18:04:39+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\73da2b92-3588-42d7-9a10-d3b2f7385ec7\main.py
+2026-04-16T18:04:41+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:05:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:05:41+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\5fa8c23f-1777-477b-86cc-ad71410a0a66\functions.py
+2026-04-16T18:05:41+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\5fa8c23f-1777-477b-86cc-ad71410a0a66\main.py
+2026-04-16T18:06:42+0300 ERROR: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\5fa8c23f-1777-477b-86cc-ad71410a0a66\main.py Ошибка: Find Control Timeout(10s): {Name: 'HIgh', ControlType: ListItemControl}
+2026-04-16T18:06:42+0300 Окно выполнения: main: ERROR:  ["Find Control Timeout(10s): {Name: 'HIgh', ControlType: ListItemControl}"]
+2026-04-16T18:06:52+0300 ERROR: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:09:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:09:23+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\2d6b1044-0fb7-433a-9f3b-66db020124ee\functions.py
+2026-04-16T18:09:24+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\2d6b1044-0fb7-433a-9f3b-66db020124ee\main.py
+2026-04-16T18:09:24+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:09:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:10:03+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\2c80f2d5-eedc-4e7a-bc3a-2606e48fe9aa\functions.py
+2026-04-16T18:10:03+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\2c80f2d5-eedc-4e7a-bc3a-2606e48fe9aa\main.py
+2026-04-16T18:11:01+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\2c80f2d5-eedc-4e7a-bc3a-2606e48fe9aa\main.py
+2026-04-16T18:11:03+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:13:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
+2026-04-16T18:13:50+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\88d97034-7928-4d8b-b038-b009f543def7\functions.py
+2026-04-16T18:13:50+0300 INFO: Старт робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\88d97034-7928-4d8b-b038-b009f543def7\main.py
+2026-04-16T18:14:43+0300 INFO: Завершение работы робота: C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\resource\88d97034-7928-4d8b-b038-b009f543def7\main.py
+2026-04-16T18:14:46+0300 INFO: Завершение выполнения процесса. C:\Users\vboxuser\Documents\PR7_Chernikov_RPA_Desktop_p1_ Problem2_var32\process\main.json
